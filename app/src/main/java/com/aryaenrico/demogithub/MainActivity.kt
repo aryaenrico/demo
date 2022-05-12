@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    private fun data123 (){
+    private fun data12345678 (){
         // data
     }
 }
